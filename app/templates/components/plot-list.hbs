@@ -1,0 +1,7 @@
+<h2>{{title}}</h2>
+
+<ul>
+  {{#each plots as |point|}}
+    <li {{action "showPerson" point}}>{{point}}</li>
+  {{/each}}
+</ul>
