@@ -1,0 +1,24 @@
+/****
+ * Global Styles
+ ****/
+
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville|Libre+Franklin');
+@import 'bootstrap';
+
+// Colors
+$primary-color: #F44336;
+$primary-dark: #D32F2F;
+$primarylight: #FFCDD2;
+
+$accent-color: #00BCD4;
+
+$border-gray: #BDBDBD;
+$primary-text: #212121;
+$secondary-text: #757575;
+$white: #fff;
+
+// Fonts
+$primary-font: 'Libre Baskerville', serif;
+$secondary-font: 'Libre Franklin', sans-serif;
+
+@import 'partials/typography';
