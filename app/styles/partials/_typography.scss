@@ -1,0 +1,14 @@
+body {
+  font-family: $primary-font;
+  color: $primary-text;
+}
+h1 {
+  color: $primary-color;
+  font-family: $secondary-font;
+}
+h2,
+h3,
+h4 {
+  font-family: $secondary-font;
+  color: $primary-text;
+}
